@@ -1,5 +1,6 @@
 body {
   background-color: #ccc;
+  border: 1px rebeccapurple;
 }
 * {
   margin: 0;
